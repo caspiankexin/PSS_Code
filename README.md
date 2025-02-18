@@ -1,10 +1,10 @@
-📅 时间：2022年3月19日
-👨‍💻 作者GitHub：@caspiankexin
-📨 作者邮箱： [联系我](mailto:mirror_flower@outlook.com)
-转载至：原创
+📅 时间：2022年3月19日  
+👨‍💻 作者GitHub：@caspiankexin  
+📨 作者邮箱： [联系我](mailto:mirror_flower@outlook.com)  
+转载至：原创  
 
 ---
-# 通过python对纸质签到表进行统计
+# PSS_Code(Paper Sign - in Sheet Statistics)——一种通过python对纸质签到表进行统计的方法
 
 > 单位取消了刷脸签到，改用纸质签到。不幸交由我负责，更不幸还要求对签到情况进行统计。签到人员六十几人，一天四张签到表，一个月下来就非常多，人工统计来低效和浪费人了。网上找了一圈没找到合适方式，所以愤而写了这个小工具，把我从枯燥工作中解放。
 
