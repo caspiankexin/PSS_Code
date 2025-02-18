@@ -1,6 +1,6 @@
 📅 时间：2022年3月19日
 👨‍💻 作者GitHub：@caspiankexin
-📨 作者邮箱： `mirror_flower@outlook.com`
+📨 作者邮箱： [联系我](mailto:mirror_flower@outlook.com)
 转载至：原创
 
 ---
